@@ -1,0 +1,34 @@
+.brand-logo img {
+  padding: 8px 0;
+  height: 58px;
+}
+
+.logged-in,
+.logged-out,
+.admin {
+  display: none;
+}
+
+.admin-actions {
+  margin: 40px;
+}
+
+.guide-list {
+  margin-top: 3rem;
+}
+
+.modal-content h4 {
+  padding-bottom: 1rem;
+}
+
+.guides {
+  border: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
